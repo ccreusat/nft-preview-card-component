@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution site](https://your-solution-url.com)
+- Solution URL: [Solution site](https://www.frontendmentor.io/solutions/nft-card-component-simple-html-css-utilities-classes-flexbox-htbgRV9Kd)
 - Live Site URL: [Live site](https://ccreusat-nft-preview-card-component.vercel.app/)
 
 ## My process
